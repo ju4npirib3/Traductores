@@ -1,0 +1,13 @@
+Bicicleta   Rueda   5
+Bicicleta   Cuadro  5
+Bicicleta   Pedal   10
+Bicicleta   Manubrio    1
+Bicicleta   Transmicion     8
+Bicicleta   Frenos  7
+Rueda   Cuadro 6
+Cuadro  Pedal   3
+Transmicion     Pedal   3
+Frenos  Manubrio    6
+Frenos  Rueda   7
+
+
